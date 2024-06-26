@@ -1,0 +1,102 @@
+rank,name,federation,rating,born_year
+1,"Carlsen, Magnus",NOR,2830,1990
+2,"Caruana, Fabiano",USA,2805,1992
+3,"Nakamura, Hikaru",USA,2794,1987
+4,"Nepomniachtchi, Ian",RUS,2770,1990
+5,"Abdusattorov, Nodirbek",UZB,2766,2004
+6,Gukesh D,IND,2763,2006
+7,"Ding, Liren",CHN,2762,1992
+8,Erigaisi Arjun,IND,2761,2003
+9,"So, Wesley",USA,2757,1993
+10,"Wei, Yi",CHN,2755,1999
+11,"Anand, Viswanathan",IND,2751,1969
+12,"Dominguez Perez, Leinier",USA,2748,1983
+13,Praggnanandhaa R,IND,2747,2005
+14,"Giri, Anish",NED,2745,1994
+15,"Firouzja, Alireza",FRA,2737,2003
+16,"Mamedyarov, Shakhriyar",AZE,2734,1985
+17,"Maghsoodloo, Parham",IRI,2733,2000
+18,"Duda, Jan-Krzysztof",POL,2733,1998
+19,"Vachier-Lagrave, Maxime",FRA,2732,1990
+20,"Le, Quang Liem",VIE,2731,1991
+21,"Aronian, Levon",USA,2729,1982
+22,"Topalov, Veselin",BUL,2727,1975
+23,"Keymer, Vincent",GER,2721,2004
+24,"Vidit, Santosh Gujrathi",IND,2721,1994
+25,"Grischuk, Alexander",RUS,2719,1983
+26,"Yu, Yangyi",CHN,2715,1994
+27,"Rapport, Richard",ROU,2715,1996
+28,"Tabatabaei, M. Amin",IRI,2713,2001
+29,"Sarana, Alexey",SRB,2712,2000
+30,"Radjabov, Teimour",AZE,2704,1987
+31,"Wang, Hao",CHN,2702,1989
+32,"Dubov, Daniil",RUS,2701,1996
+33,"Harikrishna, Pentala",IND,2699,1986
+34,"Svidler, Peter",FID,2698,1976
+35,"Robson, Ray",USA,2695,1994
+36,"Artemiev, Vladislav",RUS,2694,1998
+37,"Saric, Ivan",CRO,2690,1990
+38,"Bu, Xiangzhi",CHN,2689,1985
+39,"Niemann, Hans Moke",USA,2688,2003
+40,"Vitiugov, Nikita",ENG,2688,1987
+41,"Sevian, Samuel",USA,2687,2000
+42,"Fedoseev, Vladimir",SLO,2685,1995
+43,"Kasimdzhanov, Rustam",UZB,2685,1979
+44,"Aravindh, Chithambaram VR.",IND,2684,1999
+45,"Amin, Bassem",EGY,2684,1988
+46,"Bacrot, Etienne",FRA,2684,1983
+47,"Shankland, Sam",USA,2683,1991
+48,"Navara, David",CZE,2682,1985
+49,"Tomashevsky, Evgeny",RUS,2681,1987
+50,"Deac, Bogdan-Daniel",ROU,2680,2001
+51,"Shevchenko, Kirill",ROU,2680,2002
+52,"Esipenko, Andrey",FID,2677,2002
+53,"Alekseenko, Kirill",AUT,2677,1997
+54,"Howell, David W L",ENG,2675,1990
+55,"Eljanov, Pavel",UKR,2671,1983
+56,"Wojtaszek, Radoslaw",POL,2671,1987
+57,"Adams, Michael",ENG,2670,1971
+58,Nihal Sarin,IND,2669,2004
+59,"Anton Guijarro, David",ESP,2669,1995
+60,"Sindarov, Javokhir",UZB,2668,2005
+61,Narayanan S L,IND,2668,1998
+62,"Volokitin, Andrei",UKR,2667,1986
+63,"Predke, Alexandr",SRB,2667,1994
+64,"Van Foreest, Jorden",NED,2665,1999
+65,"Oparin, Grigoriy",USA,2665,1997
+66,"Najer, Evgeniy",FID,2663,1977
+67,"Martirosyan, Haik M.",ARM,2662,2000
+68,"Sjugirov, Sanan",HUN,2661,1993
+69,"Naiditsch, Arkadij",BUL,2661,1985
+70,"Sargissian, Gabriel",ARM,2660,1983
+71,"Shirov, Alexei",ESP,2660,1972
+72,"Korobov, Anton",UKR,2659,1985
+73,"Gelfand, Boris",ISR,2658,1968
+74,"Matlakov, Maxim",RUS,2657,1991
+75,"Vallejo Pons, Francisco",ESP,2657,1982
+76,"Morozevich, Alexander",RUS,2655,1977
+77,"Christiansen, Johan-Sebastian",NOR,2655,1998
+78,"Ponomariov, Ruslan",UKR,2654,1983
+79,"Warmerdam, Max",NED,2654,2000
+80,"Bjerre, Jonas Buhl",DEN,2653,2004
+81,"Wang, Yue",CHN,2652,1987
+82,"Mamedov, Rauf",AZE,2651,1988
+83,"Murzin, Volodar",FID,2650,2006
+84,"Grandelius, Nils",SWE,2650,1993
+85,"Inarkiev, Ernesto",FID,2650,1985
+86,"Kryvoruchko, Yuriy",UKR,2650,1986
+87,"Dardha, Daniel",BEL,2649,2005
+88,"Ni, Hua",CHN,2649,1983
+89,"Chigaev, Maksim",ESP,2648,1996
+90,"Kollars, Dmitrij",GER,2648,1999
+91,"Nguyen, Thai Dai Van",CZE,2647,2001
+92,"Bluebaum, Matthias",GER,2647,1997
+93,"Melkumyan, Hrant",ARM,2646,1989
+94,"Brkic, Ante",CRO,2645,1988
+95,"Bartel, Mateusz",POL,2645,1985
+96,"Li, Chao b",CHN,2645,1989
+97,"Xiong, Jeffery",USA,2645,2000
+98,"Liang, Awonder",USA,2643,2003
+99,"Ma, Qun",CHN,2643,1991
+100,"Malakhov, Vladimir",FID,2642,1980
+101,"Tari, Aryan",NOR,2642,1999
